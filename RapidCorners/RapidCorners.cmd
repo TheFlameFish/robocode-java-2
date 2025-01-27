@@ -1,1 +1,0 @@
-java -cp ../lib/* RapidCorners.java >nul
